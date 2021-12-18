@@ -1,4 +1,4 @@
-<a href="https://kaio6fellipe.github.io/"><img src="./images/back-home.png" alt="Home Page" width="50" height="58"></a> 
+<a href="https://kaio6fellipe.github.io/"><img src="./images/back-home.png" alt="Home Page" width="50" height="58" style="filter: grayscale(100%)"></a> 
 
 * * *
 ## **Kaio Fellipe**
@@ -10,9 +10,9 @@
 ### **Contact me at**
 <table>
     <tr>
-        <td><img src="./images/linkedin-icon.svg" alt="Linkedin" width="25" height="30"></td>
+        <td><img src="./images/linkedin-icon.svg" alt="Linkedin" width="35" height="40"></td>
         <td><a href="https://www.linkedin.com/in/kaio-fellipe/" style="color: white">kaio-fellipe</a></td>
-        <td><img src="./images/github-icon.svg" alt="GitHub" width="25" height="30"></td>
+        <td><img src="./images/github-icon.svg" alt="GitHub" width="35" height="40"></td>
         <td><a href="https://github.com/kaio6fellipe" style="color: white">kaio6fellipe</a></td>
     </tr>
 </table>
@@ -20,7 +20,7 @@
 ---
 ### **Personal Profile**
 
-5 years of experience in systems and technology analysis, working in the areas of Management, Infrastructure, Security and IT Services. Experience in Business Intelligence, CRM, BPM, ERP implementation, ITIL, Office 365 and Infrastructure/Security standardization, following the best market practices. Experience in a national company in the Agribusiness segment. I have advanced English for reading/comprehension and advanced knowledge in firewalls, computer networks, SQL, ETL processes, Excel and intermediate knowledge in  Windows/Linux servers. I am currently studying Information Security (Red and Blue Team), Python and MongoDB daily, for development of personal and professional projects.
+5 years of experience in systems and technology analysis, working in the areas of Management, Infrastructure, Security and IT Services. Experience in Business Intelligence, CRM, BPM, ERP implementation, ITIL, Office 365 and Infrastructure/Security standardization, following the best market practices. Experience in a national company in the Agribusiness segment. I am currently studying Information Security (Red and Blue Team), Python and NoSQL databases daily, for the development of personal and professional projects.
 
 ---
 
@@ -52,21 +52,43 @@
 ---
 ### **Work experience**
 > ### **[Safra Rica](https://www.safrarica.com.br/)** (5+ years)
+>
 > - **IT Analyst** (Jul. 2019 - Current)
->   - Activities
->   - Activities
->   - Activities
->   - Activities
+>
+>   As an IT Analyst, I was able to lead and participate in some project such as: standardizing the entire infrastructure of all our branches, implementation of the BPM methodology in the accounting and commercial areas, deployment of virtualized server infrastructure and the implementation of a data warehouse created by my team.
+>   - Team leader (Manager)
+>   - Database management
+>   - SQL developer
+>   - IT project leader
+>   - BPM leader
+>   - Network management
+>   - Windows and Linux server management
+>   - Local systems management
+>   - Other administrative activities...
+>
 > - **IT Technician** (Oct. 2017 - Jun. 2019)
->   - Activities
->   - Activities
->   - Activities
->   - Activities
+>
+>   As an IT Technician, I was able to lead some projects such as: data center infrastructure readjustment, ERP migration, BI structuring, CRM software implementation, among others.
+>   - Dashboard development for analysis using SQL
+>   - Database administration
+>   - Firewall administration
+>   - Suport N2 and N3
+>   - Network administration
+>   - Local systems administration
+>   - Windows servers administration
+>   - Other administrative activities...
+>
 > - **Intern** (Aug. 2016 - Sept. 2017)
->   - Activities
->   - Activities
->   - Activities
->   - Activities
+>   
+>   As an intern, I was able to deploy the first firewall used in the company, building together a proxy and an IDS/IPS, a very large gain in quality and security of the connection was noticed.
+>   - Computer maintenance
+>   - Firewall configuration and maintenance
+>   - Suport N1 and N2
+>   - Network maintenance
+>   - Requirements analysis for process improvements
+>   - Administration of local systems
+>   - Windows servers maintenance
+>   - Other administrative activities...
 
 ---
 ### **Educational history**
