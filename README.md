@@ -1,4 +1,41 @@
-<a href="https://kaio6fellipe.github.io/"><img src="./images/back-home.png" alt="Home Page" width="50" height="58" style="filter: grayscale(100%)"></a>
+<style>
+.button {
+  border-radius: 6px;
+  background-color: #b5e853;
+  border: none;
+  color: #000;
+  text-align: center;
+  font-size: 16px;
+  padding: 15px;
+  width: 100px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button:hover span {
+  padding-right: 25px;
+}
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+
+<a href="https://kaio6fellipe.github.io/"><button class="button"><span>Home</span></button></a>
 
 * * *
 ## **Kaio Fellipe**
