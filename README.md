@@ -1,4 +1,4 @@
-<a href="https://kaio6fellipe.github.io/"><img src="./images/back-home.png" alt="Home Page" width="50" height="58" style="filter: grayscale(100%)"></a> 
+<a href="https://kaio6fellipe.github.io/"><img src="./images/back-home.png" alt="Home Page" width="50" height="58" style="filter: grayscale(100%)"></a>
 
 * * *
 ## **Kaio Fellipe**
@@ -8,14 +8,19 @@
 
 ---
 ### **Contact me at**
-<table>
-    <tr>
-        <td><img src="./images/linkedin-icon.svg" alt="Linkedin" width="35" height="40"></td>
-        <td><a href="https://www.linkedin.com/in/kaio-fellipe/" style="color: white">kaio-fellipe</a></td>
-        <td><img src="./images/github-icon.svg" alt="GitHub" width="35" height="40"></td>
-        <td><a href="https://github.com/kaio6fellipe" style="color: white">kaio6fellipe</a></td>
-    </tr>
-</table>
+
+![LinkedIn](./images/resized-linkedin-icon.svg) Linkedin: [kaio-fellipe](https://www.linkedin.com/in/kaio-fellipe/)
+
+![GitHub](./images/resized-github-icon.svg) GitHub: [kaio6fellipe](https://github.com/kaio6fellipe)
+
+[//]: # (<table>)
+[//]: # (    <tr>)
+[//]: # (        <td><img src="./images/linkedin-icon.svg" alt="Linkedin" width="35" height="40"></td>)
+[//]: # (        <td><a href="https://www.linkedin.com/in/kaio-fellipe/" style="color: white">kaio-fellipe</a></td>)
+[//]: # (        <td><img src="./images/github-icon.svg" alt="GitHub" width="35" height="40"></td>)
+[//]: # (        <td><a href="https://github.com/kaio6fellipe" style="color: white">kaio6fellipe</a></td>)
+[//]: # (    </tr>)
+[//]: # (</table>)
 
 ---
 ### **Personal Profile**
