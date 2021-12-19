@@ -1,3 +1,45 @@
+<style>
+.button {
+  border-radius: 6px;
+  background-color: #b5e853;
+  border: none;
+  color: #000;
+  text-align: center;
+  font-size: 16px;
+  padding: 15px;
+  width: 125px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button:hover span {
+  padding-right: 25px;
+}
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+
+<div>
+    <a href="https://kaio6fellipe.github.io/"><button class="button"><span>Home</span></button></a>
+    <a href="https://kaio6fellipe.github.io/resume/pt-br.md"><button class="button" style="float: right"><span>Translate</span></button></a>
+</div>
+
 * * *
 ## **Kaio Fellipe**
 > #### Gerente de TI
