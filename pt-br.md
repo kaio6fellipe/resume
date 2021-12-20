@@ -37,7 +37,7 @@
 
 <div>
     <a href="https://kaio6fellipe.github.io/"><button class="button"><span>Home</span></button></a>
-    <a href="https://kaio6fellipe.github.io/resume/"><button class="button" style="float: right"><span>Translate</span></button></a>
+    <a href="https://kaio6fellipe.github.io/resume/"><button class="button" style="float: right"><span>EN-US</span></button></a>
 </div>
 
 * * *
