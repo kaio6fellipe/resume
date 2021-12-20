@@ -113,7 +113,7 @@ Experiência de 5 anos em análise de sistemas e tecnologia, com atuação nas �
 >
 > - **Técnico de TI** (Out. 2017 - Jun. 2019)
 >
->   Como Técnio de TI, fui capaz de liderar alguns projetos como: readequação de infraestrutura de data center, migração de ERP, estruturaçaõ de BI, implantação de software de CRM, entre outros.
+>   Como Técnico de TI, fui capaz de liderar alguns projetos como: readequação de infraestrutura de data center, migração de ERP, estruturação de BI, implantação de software de CRM, entre outros.
 >   - Desenvolvimento de dashboards para análise usando SQL
 >   - Administração de bases de dados
 >   - Administração de Firewall
