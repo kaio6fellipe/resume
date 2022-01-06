@@ -99,7 +99,7 @@ Experiência de 5 anos em análise de sistemas e tecnologia, com atuação nas �
 > - **MBA em Gestão de TI**
 > 
 > ### **[Senac](https://www.sp.senac.br/)** (2018 - 2020)
-> - **Pós-gradução em Segurança da Informação**
+> - **Pós-graduação em Segurança da Informação**
 > 
 > ### **[Unifafibe](https://unifafibe.com.br/)** (2013 - 2017)
 > - **Graduação em Sistemas de Informação**
