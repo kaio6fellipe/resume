@@ -35,13 +35,12 @@
 }
 </style>
 
-<div>
-    <a href="https://kaio6fellipe.github.io/"><button class="button"><span>Home</span></button></a>
-    <a href="https://kaio6fellipe.github.io/resume/"><button class="button" style="float: right"><span>EN-US</span></button></a>
-</div>
-
 * * *
 ## **Kaio Fellipe**
+<div>
+    <a href="https://kaio6fellipe.github.io/content/resume/"><button class="button" style="float: right"><span>EN-US</span></button></a>
+</div>
+
 > #### Gerente de TI
 > #### Analista de Segurança
 > #### CND em andamento...
