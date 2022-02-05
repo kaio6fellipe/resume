@@ -35,7 +35,6 @@
 }
 </style>
 
-* * *
 ## **Kaio Fellipe**
 <div>
     <a href="https://kaio6fellipe.github.io/content/resume/"><button class="button" style="float: right"><span>EN-US</span></button></a>

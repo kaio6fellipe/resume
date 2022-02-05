@@ -35,7 +35,6 @@
 }
 </style>
 
-* * *
 ## **Kaio Fellipe**
 <div>
     <a href="https://kaio6fellipe.github.io/content/resume/pt-br.html"><button class="button" style="float: right"><span>PT-BR</span></button></a>
