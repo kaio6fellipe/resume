@@ -1,0 +1,131 @@
+- Cibersegurança (Estudo continuo)  
+    - Estrategias de ataque e defesa
+    - Seguranca administrativa de redes
+    - Seguranca tecnica de redes
+    - Seguranca de servidores Windows
+    - Seguranca de servidores Linux
+    - Seguranca de dispositivos moveis
+    - Seguranca de IoT
+    - Seguranca de dados
+    - Seguranca de redes empresariais virtuais
+    - Seguranca de redes empresariais em cloud
+    - Seguranca de redes wireless
+    - Monitoramento de trafego e analise
+    - Responsta a incidentes e investigacao forense
+    - Continuidade de negocios e recuperacao de desastres
+    - Antecipacao de risco e gerenciamento de risco
+- Pentest (Estudo continuo)
+    - Analise de vulnerabilidades
+    - Brute force
+    - Network scan
+    - OWASP
+    - OSINT
+    - Enumeracao de vulnerabilidades
+    - Identificacao de vulnerabilidades em codigo
+- Gestão de Projetos      
+    - Scrum
+    - Kanban
+- Gestão de Infraestrutura
+    - Zabbix
+        - Monitoramento de ativos
+        - Autodescoberta de ativos
+        - Medicao de SLAs
+        - Integracao com Telegram
+        - Automacao de processos para recuperacao de incidentes
+    - Grafana
+        - Criacao de dashboards para melhor visualizacao dos dados coletados do Zabbix
+- Redes de computadores 
+    - Segmentacao
+    - Roteamento 
+    - Firewalls (Sophos e pfSense)
+    - IDS/IPS (Snort)
+    - Proxy Server
+    - UTM (Sophos e pfSense)
+    - VPN (L2L, Client-to-Server)
+    - Network Access Control (NAC)
+- Servidores Linux 
+    - Gerenciamento de servicos e tecnicas de hardening
+    - Gerenciamento de usuario e gerenciamento de senhas
+    - Gerenciamento de webservers
+    - Gerenciamento de seguranca em redes e acesso remoto
+        - Configurar sysctl
+        - Iptables
+        - UFW
+        - TCP Wrappers
+        - Monitoramento de portas abertas e servicos
+        - SSH seguro
+- Servidores Windows 
+    - Contas de usuario e gerenciamento de senhas
+    - Gerenciamento de patchs
+    - Gerenciamento de acesso de usuarios
+    - Tecnicas para melhoria na seguranca
+        - Senha da BIOS
+        - Previnir o windows de armazenar Hashs de senhas no LM Hash
+        - Restringir instalacao de softwares
+        - Desabilitar servicos indesejaveis
+        - Instalacao de antivirus
+        - Habilitar o windows defender firewall
+        - Monitorar os registros do windows
+    - Tecnicas para melhoria na seguranca do AD
+        - Limpar grupo de domain admins
+        - LAPS
+        - Desabilitar NTLM e NTLMv2
+        - Monitorar eventos do AD para sinais de comprometimento
+        - PS Cmdlets para seguranca do AD
+        - Boas praticas do AD:
+            - Proteger os detalhes das contas de servico
+            - Proteger objetos workstations e servers
+            - Proter domain controllers
+            - Log
+- Virtualização 
+    - Hyper-V
+    - Docker (Basico)
+    - Kubernetes (Basico)     
+- SQL (4~5 anos de pratica diaria)             
+    - Otimizacao de SQL
+    - Procedures
+    - Triggers
+    - Querys de diferentes complexidades        
+- Python    
+    - Conhecimento basico em Django 
+    - Conhecimento medio em Django REST Framework
+    - Conhecimento medio em Flask
+    - Conhecimento em processos e subprocessos, multi threat, objetos, lambdas, functions
+    - Criacao de APIs REST, consumo de APIs REST
+    - Automacao de processos        
+- Bases de dados SQL
+    - mySQL, PostgreSQL, Firebird
+- Bases de dados NoSQL   
+    - MongoDB
+- Business Intelligence
+    - OLAP
+    - Self Service BI
+    - Ciclo de vida para analises de dados
+        - Encontrar/Entender um problema
+        - Coleta de dados
+        - Preparacao dos dados
+        - Processamento dos dados
+        - Criacao do Modelo
+        - Comunicacao dos Resultados
+        - Feedback
+    - Processo de ETL         
+    - Data Warehouse
+    - Data Mart
+    - Analise Descritiva, Diagnostica, Preditiva, Prescritiva
+    - Data StoryTelling
+- BPM
+    - Definicao de papeis e responsabilidades
+    - Definicao de criticidade de processos
+    - Modelagem, desenho, gerenciamento de desempenho, melhoria continua
+- ITIL
+    - Gerenciamento financeiro de TI
+    - Gerenciamento de portfolio
+    - Gerenciamento de catalogo de servicos
+    - Gerenciamento de nivel de servico
+    - Gerenciamento de seguranca da informacao
+    - Gerenciamento de fornecedores
+    - Gerenciamento de mudancas
+    - Gerenciamento de liberacao e implantacao
+    - Gerenciamento de conhecimento
+    - Gerenciamento de incidentes
+    - Gerenciamento de acessos
