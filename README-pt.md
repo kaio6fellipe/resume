@@ -1,8 +1,8 @@
 * * *
 ## **Kaio Fellipe**
-> #### Gerente de TI
-> #### Analista de Segurança
-> #### CND em andamento...
+> #### DevOps
+> #### SRE
+> #### SysAdmin
 
 ---
 ### **Contatos**
@@ -23,12 +23,15 @@
 ---
 ### **Perfil profissional**
 
-Experiência de 5 anos em análise de sistemas e tecnologia, com atuação nas áreas de Gestão, Infraestrutura, Segurança e Serviços de TI. Experiência em projetos de Business Intelligence, CRM, BPM, implantação de ERPs, ITIL, Office 365 e padronização de Infraestrutura/Segurança, seguindo as melhores práticas do mercado. Vivência em empresa nacional no segmento do Agronegócio. Atualmente estou estudando Segurança da Informação(Red e Blue Team), Python e NoSQL diariamente, para o desenvolvimento de projetos pessoais e profissionais.
+Experiência de 6 anos em análise de sistemas e tecnologia, com atuação nas áreas de Gestão, Infraestrutura, Segurança e Serviços de TI. Experiência em projetos de Business Intelligence, CRM, BPM, implantação de ERPs, ITIL, Office 365 e padronização de Infraestrutura/Segurança, seguindo as melhores práticas do mercado. Vivência em empresa nacional no segmento do Agronegócio e na maior fashion tech da américa latina. Atualmente estudo diariamente sobre DevOps, Segurança da Informação(Red e Blue Team) e Python para o desenvolvimento de projetos pessoais e profissionais.
 
 ---
 
 | **Resumo de habilidades**       | Level         |
 |:--------------------------------|:--------------|
+| DevOps                          | Avançado      |
+| Observability                   | Avançado      |
+| AWS                             | Intermediário |
 | Cibersegurança                  | Avançado      |
 | Pentest                         | Intermediário |
 | SQL                             | Expert        |
@@ -54,9 +57,25 @@ Experiência de 5 anos em análise de sistemas e tecnologia, com atuação nas �
 
 ---
 ### **Experiência**
-> ### **[Safra Rica](https://www.safrarica.com.br/)** (5+ anos)
+
+> ### **[Dafiti Group](https://www.dafitigroup.com/)** (6+ meses)
 >
-> - **Analista de TI** (Jul. 2019 - Atual)
+> - **SysAdmin** (Fev. 2022 - Atual)
+>
+>   Como SysAdmin na maior fashion tech da américa latina, pude conhecer de perto a cultura DevOps aplicada em grande escala, além da administração de servidores e clusters no EKS pude participar de iniciativas de melhoria continua de Observability e de tratativa de incidentes do eCommerce.
+>   - AWS
+>   - Observability
+>   - Stack ELK
+>   - Instana
+>   - Grafana
+>   - Zabbix
+>   - Kubernetes
+>   - Puppet
+>   - ArgoCD
+>
+> ### **[Safra Rica](https://www.safrarica.com.br/)** (5 anos e 6 meses)
+>
+> - **Analista de TI** (Jul. 2019 - Fev. 2022)
 >
 >   Como Analista de TI, pude liderar e participar de alguns projetos como: padronização de toda a infraestrutura de todas as nossas filiais, implantação da metodologia BPM na área contábil e na área comercial, implantação da infraestrutura de servidores virtualizados e a implantação de um data warehouse criado pela minha equipe.
 >   - Líder de equipe (Gerente)
@@ -109,6 +128,25 @@ Experiência de 5 anos em análise de sistemas e tecnologia, com atuação nas �
 > ### **CND** (Em andamento...)
 > - Certified Network Defender by [EC-Council](https://www.eccouncil.org/)
 >
+> ### **Formação DevOps** (2022)
+> - Trilha da [Alura](https://www.alura.com.br/) abordando os seguintes tópicos:
+>   - Terraform
+>   - Ansible
+>   - Vagrant
+>   - Observability
+>   - CI/CD
+>   - Kubernetes
+>   - Docker
+>
+> ### **GitOps Fundamentals** (2022)
+> - [Codefresh](https://codefresh.io/)
+> 
+> ### **Python Certificate** (2022)
+> - [HackerRank](https://www.hackerrank.com/)
+> 
+> ### **SQL (Advanced) Certificate** (2022)
+> - [HackerRank](https://www.hackerrank.com/)
+> 
 > ### **CSFPC** (2021)
 > - Cyber Security Foundation Professional Certificate by [CertiProf](https://certiprof.com/)
 >

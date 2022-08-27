@@ -79,8 +79,8 @@
             - Log
 - Virtualização 
     - Hyper-V
-    - Docker (Basico)
-    - Kubernetes (Basico)     
+    - Docker
+    - Kubernetes   
 - SQL (4~5 anos de pratica diaria)             
     - Otimizacao de SQL
     - Procedures
