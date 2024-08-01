@@ -2,7 +2,7 @@
 ## **Kaio Fellipe**
 > #### DevOps
 > #### SRE
-> #### SysAdmin
+> #### Platform Engineer
 
 ---
 ### **Contatos**
@@ -23,44 +23,64 @@
 ---
 ### **Perfil profissional**
 
-Experiência de 6 anos em análise de sistemas e tecnologia, com atuação nas áreas de Gestão, Infraestrutura, Segurança e Serviços de TI. Experiência em projetos de Business Intelligence, CRM, BPM, implantação de ERPs, ITIL, Office 365 e padronização de Infraestrutura/Segurança, seguindo as melhores práticas do mercado. Vivência em empresa nacional no segmento do Agronegócio e na maior fashion tech da américa latina. Atualmente estudo diariamente sobre DevOps, Segurança da Informação(Red e Blue Team) e Python para o desenvolvimento de projetos pessoais e profissionais.
+Experiência de 8 anos em análise de sistemas e tecnologia, com atuação nas áreas de Gestão, Arquitetura, DevOps, Infraestrutura (On-premise e Cloud), Segurança e Serviços de TI. Experiência em projetos de Arquitetura e Desenvolvimento de Sistemas Distribuidos, Business Intelligence, CRM, BPM, implantação de ERPs, ITIL, Office 365 e padronização de Infraestrutura/Segurança, seguindo as melhores práticas do mercado. Vivência em empresa nacional no segmento do Agronegócio, na maior fashion tech da américa latina e na maior empresa de data analytics e inteligencia artificial para negocios da america latina. Atualmente estudo diariamente sobre DevOps, Engenharia de Plataforma e Infraestrutura como Codigo para o desenvolvimento de projetos pessoais e profissionais..
 
 ---
 
 | **Resumo de habilidades**       | Level         |
 |:--------------------------------|:--------------|
 | DevOps                          | Avançado      |
-| Observability                   | Avançado      |
+| Terraform                       | Avançado      |
+| GCP                             | Avançado      |
 | AWS                             | Intermediário |
+| Kubernetes                      | Avançado      |
+| Microservices                   | Avançado      |
+| Docker                          | Intermediário |
+| Ansible                         | Avançado      |
+| GitOps                          | Avançado      |
+| Observability                   | Avançado      |
+| Linux                           | Avançado      |
+| GitHub                          | Avançado      |
+| GitLab                          | Avançado      |
+| CI/CD                           | Avançado      |
 | Cibersegurança                  | Avançado      |
-| Pentest                         | Intermediário |
-| SQL                             | Expert        |
 | Python                          | Avançado      |
 | Gestão de Projetos              | Intermediário |
 | Gestão de Infraestrutura        | Avançado      |
-| Gestão de TI                    | Avançado      |
 | Firewalls                       | Avançado      |
-| Redes de computadores           | Avançado      |
 | API REST                        | Intermediário |
-| Servidores Linux                | Intermediário |
 | Servidores Windows              | Intermediário |
 | Virtualização                   | Intermediário |
-| Bases de dados SQL              | Avançado      |
-| Bases de dados NoSQL            | Intermediário |
+| SQL                             | Avançado      |
 | Processo de ETL                 | Intermediário |
 | Business Intelligence           | Avançado      |
 
 ---
 ### **Línguas**
 - Português: Nativo
-- Inglês: Intermediário - Avançado
+- Inglês: Avançado
 
 ---
 ### **Experiência**
 
-> ### **[Dafiti Group](https://www.dafitigroup.com/)** (6+ meses)
+> ### **[Neoway](https://www.neoway.com.br/)** (1 ano e 6 meses +)
 >
-> - **SysAdmin** (Fev. 2022 - Atual)
+> - **Senior DevOps/Cloud Engineer** (Set. 2022 - Atual)
+>
+>   Como DevOps/Cloud Engineer na maior empresa de data analytics e inteligencia artificial para negocios da america latina, dentro do time de Engineering Productivity, lido diariamente com desafios para reduzir cada vez mais a carga cognitiva de processos complexos para toda a engenharia, com foco na plataformizacao de servicos internos.
+>   - GCP
+>   - CI/CD
+>   - GitOps
+>   - Terraform
+>   - Ansible
+>   - Kubernetes
+>   - Docker
+>   - Observability
+>   - GitLab
+>
+> ### **[Dafiti Group](https://www.dafitigroup.com/)** (8 meses)
+>
+> - **SysAdmin** (Fev. 2022 - Set. 2022)
 >
 >   Como SysAdmin na maior fashion tech da américa latina, pude conhecer de perto a cultura DevOps aplicada em grande escala, além da administração de servidores e clusters no EKS pude participar de iniciativas de melhoria continua de Observability e de tratativa de incidentes do eCommerce.
 >   - AWS
@@ -125,9 +145,7 @@ Experiência de 6 anos em análise de sistemas e tecnologia, com atuação nas �
 
 ---
 ### **Certificados**
-> ### **CND** (Em andamento...)
-> - Certified Network Defender by [EC-Council](https://www.eccouncil.org/)
->
+
 > ### **Formação DevOps** (2022)
 > - Trilha da [Alura](https://www.alura.com.br/) abordando os seguintes tópicos:
 >   - Terraform
@@ -137,6 +155,9 @@ Experiência de 6 anos em análise de sistemas e tecnologia, com atuação nas �
 >   - CI/CD
 >   - Kubernetes
 >   - Docker
+>
+> ### **GitOps at Scale** (2022)
+> - [Codefresh](https://codefresh.io/)
 >
 > ### **GitOps Fundamentals** (2022)
 > - [Codefresh](https://codefresh.io/)
