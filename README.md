@@ -1,8 +1,6 @@
 * * *
 ## **Kaio Fellipe**
-> #### DevOps
-> #### SRE
-> #### Platform Engineer
+> #### DevOps Engineer, Platform Engineer, SRE, Cloud Engineer
 
 ---
 ### **Contacts**
@@ -22,92 +20,101 @@
 
 ---
 ### **Professional Profile**
-8 years of experience in systems analysis and technology, working in Management, Architecture, DevOps, Infrastructure (On-premise and Cloud), Security, and IT Services. Experience in Architecture and Development projects for Distributed Systems, Business Intelligence, CRM, BPM, ERP implementation, ITIL, Office 365, and Infrastructure/Security standardization, following industry best practices. Experience in a national company in the Agribusiness sector, the largest fashion tech in Latin America, and the largest data analytics and artificial intelligence company for business in Latin America. Currently studying daily about DevOps, Platform Engineering, and Infrastructure as Code for the development of personal and professional projects.
+Cloud/DevOps Engineer with over 8 years of experience in systems and technology analysis, working in the areas of Management, Architecture, DevOps, Infrastructure (On-premise and Cloud), Security and IT Services. Experience in Distributed Systems Architecture and Development projects, Business Intelligence, CRM, BPM, ERP implementation, ITIL, Office 365 and Infrastructure/Security standardization, following the best market practices. Experience in a national company in the Agribusiness segment, in the largest fashion tech company in Latin America and in the largest data analytics and artificial intelligence company for businesses in Latin America. I currently study and work with DevOps, Platform Engineering and Infrastructure as Code daily for the development of personal and professional projects.
 
 ---
-| **Skill Summary**              | Level         |
-|:-------------------------------|:--------------|
-| DevOps                         | Advanced      |
-| DevSecOps                      | Advanced      |
-| Terraform                      | Advanced      |
-| GCP                            | Advanced      |
-| AWS                            | Intermediate  |
-| Kubernetes                     | Advanced      |
-| Microservices                  | Advanced      |
-| Docker                         | Intermediate  |
-| Ansible                        | Advanced      |
-| GitOps                         | Advanced      |
-| Observability                  | Advanced      |
-| Linux                          | Advanced      |
-| GitHub                         | Advanced      |
-| GitLab                         | Advanced      |
-| CI/CD                          | Advanced      |
-| Cybersecurity                  | Advanced      |
-| Cloud Security                 | Advanced      |
-| Python                         | Advanced      |
-| Project Management             | Intermediate  |
-| Infrastructure Management      | Advanced      |
-| Firewalls                      | Advanced      |
-| REST API                       | Intermediate  |
-| Windows Servers                | Intermediate  |
-| Virtualization                 | Intermediate  |
-| SQL                            | Advanced      |
-| ETL Process                    | Intermediate  |
-| Business Intelligence          | Advanced      |
+### **Skills Summary**
+
+DevOps, DevSecOps, Infrastructure as Code (IaC), Terraform, Terramate, Ansible, Crossplane, Packer, Google Cloud Platform (GCP), Network Architecture, BGP, Routing, IPSec, Hub & Spoke, AWS, Kubernetes, Helm, Microservices, Docker, GitOps, ArgoCD, Observability, Instana, Prometheus, Grafana Observability Stack, Zabbix, Linux, Service Mesh, Istio, GitHub, GitHub Actions, GitLab, GitLab CI, Progressive Rollouts, CI/CD, Cybersecurity, Cloud Security, Python, Bash Project Management, Infrastructure Management, Firewalls, REST API, Windows Servers, Virtualization, SQL, ETL Process, Business Intelligence.
 
 ---
-### **Languages**
-- Portuguese: Native
-- English: Advanced
-
----
-### **Experience**
-> ### **[Neoway](https://www.neoway.com.br/)** (1 year and 6 months +)
+### **Professional Experience**
+> ### **[Neoway](https://www.neoway.com.br/)** (2 years +)
 >
 > - **Senior DevOps/Cloud Engineer** (Sep. 2022 - Present)
 >
->   As a DevOps/Cloud Engineer at the largest data analytics and artificial intelligence company for business in Latin America, within the Engineering Productivity team, I deal daily with challenges to increasingly reduce the cognitive load of complex processes for all engineering, focusing on the platformization of internal services.
->   - GCP
->   - CI/CD
->   - GitOps
->   - Terraform
->   - Ansible
->   - Kubernetes
->   - Docker
->   - Observability
->   - GitLab
+>   As a DevOps/Cloud Engineer in the largest data analytics and artificial intelligence company for businesses in Latin America, within the Engineering Productivity team, I deal daily with challenges to increasingly reduce the cognitive load of complex processes for all engineering, with a focus on platformization of internal services, based on that my day is divided into three work fronts.
+>   - Cloud Infrastructure:
+>     - Linux
+>     - GCP (GCE, GKE/Kubernetes, Memorystore, Microservices, Hub & Spoke, Cloud VPN, VPC Networks, IAM, IAP, GCS, Cloud DNS, Cloud NAT, Secret Manager, Cloud Monitoring, Cloud Logging, Billing)
+>     - Infrastructure as Code (Terraform, Terramate, Ansible, Packer)
+>     - Automation (Python, Bash, GNU Make, Docker)
+>     - CDN
+>     - Queues (Pub/Sub, RabbitMQ)
+>     - Best security practices for cloud environments to maintain security certifications (ISO)
+>
+>   - Site reliability:
+>     - Observability (Sysdig, Logit, ELK Stack, Opensearch, Prometheus, Grafana Observability Stack)
+>     - Service Mesh with Istio/Anthos
+>     - Progressive rollouts for zero downtime deployments
+>     - Incident management and response
+>     - Post-mortens
+>     - Troubleshooting (mostly with USE method)
+>
+>   - Developer Experience:
+>     - Backstage
+>     - GitOps (ArgoCD)
+>     - CI/CD with GitLab CI
+>     - GitLab
+>     - Helm
+>     - Kustomize
 >
 > ### **[Dafiti Group](https://www.dafitigroup.com/)** (8 months)
 >
 > - **SysAdmin** (Feb. 2022 - Sep. 2022)
 >
->   As a SysAdmin at the largest fashion tech in Latin America, I got to know the DevOps culture applied on a large scale, in addition to server and EKS cluster administration I participated in continuous improvement initiatives of Observability and incident handling of eCommerce.
->   - AWS
->   - Observability
->   - ELK Stack
->   - Instana
->   - Grafana
->   - Zabbix
->   - Kubernetes
->   - Puppet
->   - ArgoCD
->   - SonarQube
+>   As a SysAdmin at the largest fashion tech in Latin America, I was able to get to know the DevOps culture applied on a large scale, in addition to the administration of servers and clusters at EKS, I was able to participate in initiatives for continuous improvement of Observability and eCommerce incident handling.
+>   - Linux
+>   - GitOps (ArgoCD)
+>   - Puppet (IaC)
+>   - Transact-SQL
+>   - Troubleshooting
+>   - AWS (EC2, RDS, S3, EKS, Route53, ECS, IAM, etc)
+>   - Python, Bash
+>   - Distributed Systems and multi-platform apps
+>   - Observability (ELK Stack, Instana, Zabbix, Grafana, Graylog)
+>   - CDN (Azion)
+>   - Queue systems (RabbitMQ)
+>   - Cache systems (Memcached)
+>   - GitHub
+>   - CI/CD
 >
 > ### **[Safra Rica](https://www.safrarica.com.br/)** (5 years and 6 months)
 >
 > - **IT Analyst** (Jul. 2019 - Feb. 2022)
 >
 >   As an IT Analyst, I was able to lead and participate in some projects such as: standardization of the entire infrastructure of all our branches, implementation of the BPM methodology in the accounting and commercial area, implementation of the virtualized server infrastructure, and the implementation of a data warehouse created by my team.
->   - Team Leader (Manager)
->   - Database Management
->   - SQL Developer
->   - IT Project Leader
->   - BPM Leader
->   - Network Management
->   - Windows and Linux Server Management
->   - Microsoft Defender for Cloud
->   - Local Systems Management
->   - Other administrative activities...
+>   - I worked as:
+>     - Team Leader (Manager)
+>     - SQL Database management and administration
+>     - SQL development and data analysis for Business Intelligence
+>     - ETL development
+>     - IT Project Leader
+>     - Business process management
+>     - Linux and Windows Server Management/Administration
+>     - Network Management/Administration
+>     - Firewall Management/Administration
+>     - Data Center Management/Administration
+>     - N2 and N3 Support
+>     - Hardward maintenance and troubleshooting
+>
+>   - I worked with:
+>     - Windows Server
+>     - Linux Servers
+>     - Transact-SQL, Python, Bash, PowerShell
+>     - MySQL, PostgreSQL, Firebird
+>     - BI tools
+>     - Data Warehouses
+>     - ETL tools (Python SDKs)
+>     - Monitoring systems (Zabbix, Grafana)
+>     - CRM softwares
+>     - ERPs
+>     - pfSense, Sophos, Mikrotik
+>     - Network devices (Cisco, Ubiquiti, TP-Link)
+>     - Network configuration and troubleshooting (VLANs, VPNs, routing, firewall, etc)
+>     - Networking protocols and services (TCP, UDP, IP, ARP, ICMP, DNS, DHCP, NAT, VPN, VLAN, BGP, IPSec, HTTP, HTTPS, SSH, FTP, telnet, etc)
+>     - Anti-virus and anti-malware solutions
+>     - Security awareness training
 >
 > - **IT Technician** (Oct. 2017 - Jun. 2019)
 >
@@ -122,7 +129,7 @@
 >   - Other administrative activities...
 >
 > - **Intern** (Aug. 2016 - Sep. 2017)
->   
+>
 >   As an intern, I managed to implement the first firewall used in the company, deploying a proxy and an IDS/IPS together, a significant gain in connection quality and security was noted.
 >   - Computer Maintenance
 >   - Firewall Configuration and Maintenance
@@ -132,6 +139,11 @@
 >   - Local Systems Administration
 >   - Windows Server Maintenance
 >   - Other administrative activities...
+
+---
+### **Languages**
+- Portuguese: Native
+- English: Advanced
 
 ---
 ### **Educational Background**
@@ -173,15 +185,3 @@
 >
 > ### **SFPC** (2020)
 > - Scrum Foundation Professional Certificate by [CertiProf](https://certiprof.com/)
->
-> ### **Network Security Analysis using Wireshark, Snort and SO** (2019)
-> - [Udemy](https://www.udemy.com/)
->
-> ### **Ethical Hacking Fundamentals** (2017)
-> - [Udemy](https://www.udemy.com/)
->
-> ### **Snort Intrusion Detection, Rule Writing, and PCAP Analysis** (2017)
-> - [Udemy](https://www.udemy.com/)
->
-> ### **pfSense: Complete Firewall Solution** (2017)
-> - [Udemy](https://www.udemy.com/)
