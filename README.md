@@ -29,9 +29,13 @@ DevOps, DevSecOps, Infrastructure as Code (IaC), Terraform, Terramate, Ansible, 
 
 ---
 ### **Professional Experience**
-> ### **[Neoway](https://www.neoway.com.br/)** (2 years +)
+> ### **[Neoway](https://www.neoway.com.br/)** (2 years and 6 months +)
 >
-> - **Senior DevOps/Cloud Engineer** (Sep. 2022 - Present)
+> - **Specialist Platform Engineer** (Nov. 2024 - Present)
+> 
+>   As a specialist platform engineer, I continue to work on the same work fronts described below, as when I was a senior, however, with greater independence in initiatives with greater impact on development teams, as a highlight, leading the adoption of the GitOps flow with ArgoCD from end to end, drastically reducing operational complexity and optimizing the time to market of new products.
+>
+> - **Senior DevOps/Cloud Engineer** (Sep. 2022 - Nov. 2024)
 >
 >   As a DevOps/Cloud Engineer in the largest data analytics and artificial intelligence company for businesses in Latin America, within the Engineering Productivity team, I deal daily with challenges to increasingly reduce the cognitive load of complex processes for all engineering, with a focus on platformization of internal services, based on that my day is divided into three work fronts.
 >   - Cloud Infrastructure:
@@ -158,6 +162,8 @@ DevOps, DevSecOps, Infrastructure as Code (IaC), Terraform, Terramate, Ansible, 
 
 ---
 ### **Certificates**
+> ### **CKA: Certified Kubernetes Administrator** (2025)
+> - [Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 > ### **DevOps Training** (2022)
 > - Track from [Alura](https://www.alura.com.br/) covering the following topics:
 >   - Terraform
